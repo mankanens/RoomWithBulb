@@ -1,0 +1,32 @@
+@charset "UTF-8";
+#disconnect, #bulbInf, #toogle {
+	visibility: hidden;
+	display: block;
+}
+
+h1 {
+	display: inline;
+}
+
+#connect {
+	display: block;
+}
+
+#table {
+	width: 100%;
+	border-spacing: 0;
+}
+
+table td {
+	width: 50%;
+	vertical-align: top;
+}
+
+#rightCol {
+	text-align: right;
+}
+
+#bulbInf {
+	text-align: center;
+	font-size: 26px;
+}
